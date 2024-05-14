@@ -1,0 +1,253 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstname": "Marathon",
+      "lastName": "Guest",
+      "email": "marathon@gmail.com",
+      "password": "123",
+      "isAdmin": false,
+      "avatar": "https://hrchannels.com/Upload/avatar/20211021/162801972_ME.png"
+    },
+    {
+      "id": 2,
+      "firstname": "Admin",
+      "lastName": "Page",
+      "email": "admin@gmail.com",
+      "password": "123",
+      "isAdmin": true,
+      "avatar": "https://static.vecteezy.com/system/resources/previews/023/413/966/original/cute-kawaii-pizza-chibi-mascot-cartoon-style-vector.jpg"
+    },
+    {
+      "id": 3,
+      "firstname": "Admin",
+      "lastName": "Page",
+      "email": "tingold@gmail.com",
+      "password": "0501",
+      "isAdmin": true,
+      "avatar": "https://scontent.fsgn5-11.fna.fbcdn.net/v/t39.30808-1/353030997_944662056756949_1761881535849104648_n.jpg?stp=dst-jpg_p240x240&_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=5E4mF0KhmSgAX_Y8QhB&_nc_oc=AQlAsfJItihcB2ZCCRPgwZK20qdgLFdIABPwGV_8n1Uy1ixdKUsXHJg5GfUugBmj0zY&_nc_ht=scontent.fsgn5-11.fna&oh=00_AfDH7bwEbvMU5LxsdIslnXxLb6UOP6QeAThBxiNAmhAUew&oe=6537494D"
+    },
+    {
+      "id": 4450,
+      "fullname": "a",
+      "email": "a@gmail.com",
+      "password": "123",
+      "isAdmin": false,
+      "avatar": "https://t4.ftcdn.net/jpg/05/49/98/39/360_F_549983970_bRCkYfk0P6PP5fKbMhZMIb07mCJ6esXL.jpg"
+    },
+    {
+      "id": 7174,
+      "fullname": "asdsadasdsad",
+      "email": "nguyenthithanhtien020@gmail.com",
+      "password": "123456",
+      "isAdmin": false,
+      "avatar": "https://t4.ftcdn.net/jpg/05/49/98/39/360_F_549983970_bRCkYfk0P6PP5fKbMhZMIb07mCJ6esXL.jpg"
+    },
+    {
+      "id": 3507,
+      "fullname": "hhhhhhhhhhhhhhhhhh",
+      "email": "huynhtin05012@gmail.com",
+      "password": "123456",
+      "isAdmin": false,
+      "avatar": "https://t4.ftcdn.net/jpg/05/49/98/39/360_F_549983970_bRCkYfk0P6PP5fKbMhZMIb07mCJ6esXL.jpg"
+    },
+    {
+      "id": 6756,
+      "fullname": "Phạm Huỳnh Tín",
+      "email": "huynhtin050120@gmail.com",
+      "password": "123456",
+      "isAdmin": false,
+      "avatar": "https://t4.ftcdn.net/jpg/05/49/98/39/360_F_549983970_bRCkYfk0P6PP5fKbMhZMIb07mCJ6esXL.jpg"
+    },
+    {
+      "id": 3196,
+      "fullname": "Phạm Huỳnh Tín",
+      "email": "huynhtin050111@gmail.com",
+      "password": "123456",
+      "isAdmin": false,
+      "avatar": "https://t4.ftcdn.net/jpg/05/49/98/39/360_F_549983970_bRCkYfk0P6PP5fKbMhZMIb07mCJ6esXL.jpg"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "img": "https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_55,w_860,ar_3:2/v1/img/recipes/75/75/8/NxhOU2TMa2ZhvnHCoobQ_0S9A8180.jpg",
+      "name": "QUICK AND EASY CHICKEN ENCHILADAS",
+      "price": 8.02,
+      "size": "Medium",
+      "category": "favor",
+      "description": "I made these using up some sliced cheese from my fridge. My family loved the chicken with the green sauce. I will make again; it's easy, cheap and tastes great."
+    },
+    {
+      "id": 2,
+      "img": "https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_55,w_860,ar_3:2/v1/img/recipes/11/12/57/JYpNCleQTSwjLUjUstwg_DSC_0136.JPG",
+      "name": "30 MINUTE CHICKEN AND DUMPLINGS",
+      "price": 8.02,
+      "size": "Medium",
+      "category": "favor",
+      "description": "This is a Rachel Ray recipe I had in my file for quite awhile, and had to try it recently to satisfy a craving. It turned out really well. I used made from scratch biscuit recipe as I couldn't locate the jiffy mix in my area, I made about 6 biscuits. Also, I think the refrigerated biscuits would work as well. Otherwise I followed the recipe pretty much exactly."
+    },
+    {
+      "id": 3,
+      "img": "https://img.sndimg.com/food/image/upload/fl_progressive,c_fill,q_80,h_420,w_631/v1/img/upload/editorial/2016-07-23+-+bb03+-+how+to+pan+sear+salmon/2+Salmon+Flesh+Side.jpg",
+      "name": "PICK YOUR SALMON",
+      "price": 8.02,
+      "size": "Medium",
+      "category": "seafood",
+      "description": "The quality of your salmon is priority number one. If you begin with sub-par fish, you'll end up with a sub-par dish. Choose fresh—not pre-frozen—salmon, which has clear, slightly translucent flesh with a bit of a sheen. Steer clear of fish that is dull or dry with brown edges, or which smells fishy. The color of salmon varies from species to species, so deep color is not always an indicator of quality."
+    },
+    {
+      "id": 4,
+      "img": "https://img.sndimg.com/food/image/upload/fl_progressive,c_fill,q_80,h_420,w_631/v1/img/upload/editorial/2016-07-23+-+bb03+-+how+to+pan+sear+salmon/4+Dry+and+Season.jpg",
+      "name": "DRY AND SEASON",
+      "price": 8.02,
+      "size": "Medium",
+      "category": "seafood",
+      "description": "After removing the scales, give the salmon a quick rinse to remove any leftover scales. Dry the salmon very well with a paper towel. Wet fish won't crisp or hold seasoning, so it's very important to dry well. Cut the filet into three- to four-ounce portions and season with salt and pepper.     "
+    },
+    {
+      "id": 5,
+      "img": "https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_55,w_860,ar_3:2/v1/img/recipes/14/25/42/0rz9bK7tTz6iMmwWXaL8_0S9A3113.jpg",
+      "name": "SIMPLY OVEN BAKED PORK CHOPS AND RICE",
+      "price": 8.02,
+      "size": "Medium",
+      "category": "kid",
+      "description": "This is DH's recipe. It is simple comfort food and is very versatile. You can use chicken quarters in place of chops or chicken broth in place of water. Feel free to experiment with different herbs. We never make this the same way twice. A side note: I would recommend using a bone in, fattier cut of pork and not loin chops in this recipe."
+    },
+    {
+      "id": 6,
+      "img": "https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_55,w_860,ar_3:2/v1/img/recipes/49/19/98/fiugDJyTR1KhiK0m45NN_0S9A1766.jpg",
+      "name": "THE NEELEY'S SMOTHERED PORK CHOPS",
+      "price": 8.02,
+      "size": "Medium",
+      "category": "kid",
+      "description": "Smothered pork chop and chicken recipes are all over the South. This one came from the Neeley's Celebration cookbook. I think the buttermilk is what makes this my favorite. I kind of adapted the original recipe a little bit to fit my family's tastes."
+    },
+    {
+      "id": 7,
+      "img": "https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_55,w_860,ar_3:2/v1/img/recipes/32/52/2/kTsWTDzwTOyMctbywBtv_0S9A8648.jpg",
+      "name": "GRANDMAS SLOPPY JOES",
+      "price": 8.02,
+      "size": "Medium",
+      "category": "traditional",
+      "description": "This was one of my favorite things that my grandma made...it is a comfort food for me. It is so easy, and so delicious!"
+    },
+    {
+      "id": 8,
+      "img": "https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_55,w_860,ar_3:2/v1/img/recipes/48/76/0/5hkdEzvxTPq1mbdqRf6i_0S9A6427.jpg",
+      "name": "SZECHUAN NOODLES WITH SPICY BEEF SAUCE",
+      "price": 8.02,
+      "size": "Medium",
+      "category": "traditional",
+      "description": "Tired of using ground beef the same old way? Try this spicy dish! Feel free to double the sauce if you like it really saucy! Update: the hoisin sauce is quite sweet, so you might start off with just a little and work your way up!"
+    },
+    {
+      "id": 9,
+      "img": "https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_55,w_860,ar_3:2/v1/img/recipes/18/73/62/InucCQAmQ9iM0JikkFn9_pumpkinpancakes-1982.jpg",
+      "name": "LIGHT AND FLUFFY PUMPKIN PANCAKES",
+      "price": 8.02,
+      "size": "Medium",
+      "category": "chicken",
+      "description": "These little beauties are a beautiful color and will keep you full for hours after eating just one serving. I needed to use up extra canned pumpkin and thought I'd give it a try. - I got it out of the Martha Stewart Living magazine"
+    },
+    {
+      "id": 10,
+      "img": "https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_55,w_860,ar_3:2/v1/img/recipes/28/50/1/zZAaHjlSTRiZbSC80nav_0S9A5119.jpg",
+      "name": "BELGIAN WAFFLES",
+      "price": 8.02,
+      "size": "Medium",
+      "category": "chicken",
+      "description": "This belgian waffle recipe is delicious! Top with your favorite fruit."
+    },
+    {
+      "id": 11,
+      "img": "https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_55,w_860,ar_3:2/v1/img/recipes/45/31/7/I1fZ8mB8QE2gAyGGg4uJ_0S9A5320.jpg",
+      "name": "EASY PIZZA MUFFINS",
+      "price": 8.02,
+      "size": "Medium",
+      "category": "pasta",
+      "description": "The quickest and easiest pizza to make. Even the kids can do it. Even make funny faces for kids parties. Clowns, pirates,monsters.....etc i put it in vegetarian because you can omit the ham"
+    },
+    {
+      "id": 12,
+      "img": "https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_55,w_860,ar_3:2/v1/img/recipes/90/25/7/36pILnF7RdSfI8CRhII1_0S9A0272.jpg",
+      "name": "PEANUT BUTTER AND JELLY PANINI",
+      "price": 8.02,
+      "size": "Medium",
+      "category": "pasta",
+      "description": "This recipe is simplicity itself and delicious because of the heat. The panini maker puts beautiful grill lines on the bread and melts the peanut butter and jelly inside. This is as different from a regular PB&J as a scooter is from a bicycle. Try it, you and your kids will love it."
+    },
+    {
+      "id": 13,
+      "img": "https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_55,w_860,ar_3:2/v1/img/recipes/30/97/7/7GmgWw4TTUCCw7xGKQAP_0S9A6434.jpg",
+      "name": "MOZZARELLA STICKS",
+      "price": 8.02,
+      "size": "Medium",
+      "category": "sausage",
+      "description": "At the request of my lovely 12 year old daughter, I am posting these, one of her favorite foods. We searched for a recipe together and ended up adapting one to suit our tastes. Enjoy!"
+    },
+    {
+      "id": 14,
+      "img": "https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_55,w_860,ar_3:2/v1/img/recipes/33/90/16/9JovFi5RLeZrSDrq7IJt_BaconBites_2.jpg",
+      "name": "BACON BITES FLAMBE",
+      "price": 8.02,
+      "size": "Medium",
+      "category": "sausage",
+      "description": "At the request of my lovely 12 year old daughter, I am posting these, one of her favorite foods. We searched for a recipe together and ended up adapting one to suit our tastes. Enjoy!"
+    },
+    {
+      "id": 15,
+      "img": "https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_55,w_860,ar_3:2/v1/img/recipes/30/08/1/uaSpHBwtSIuQpcHZKQeu_0S9A0050.jpg",
+      "name": "GROUND BEEF GYROS",
+      "price": 8.02,
+      "size": "Medium",
+      "category": "bread",
+      "description": "This is a great summer meal and quick and easy to put together and tastes wonderful. Refreshing served with the cucumber sauce and is even low in fat. I think this came from Quick Cooking. It's a favorite in our house."
+    },
+    {
+      "id": 16,
+      "img": "https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_55,w_860,ar_3:2/v1/img/recipes/28/76/8/SyAcnUdwTHGQfekagLBj_ABEL%25203%2520-%2520final_1.png",
+      "name": "ABSOLUTE BEST EVER LASAGNA",
+      "price": 8.02,
+      "size": "Medium",
+      "category": "bread",
+      "description": "My family's favorite. This is a very meaty lasagna. We prefer it with cottage cheese, but you can easily substitute ricotta."
+    },
+    {
+      "id": 17,
+      "img": "https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_55,w_860,ar_3:2/v1/img/recipes/26/37/0/bzwUWgTTGZ83fb1AbjMQ_CC%25208%2520-%2520final_6.jpg",
+      "name": "CHOCOLATE CAKE",
+      "price": 8.02,
+      "size": "Medium",
+      "category": "potato",
+      "description": "This chocolate cake is absolutely thee best we have ever had. It is so moist and rich, I never make anything else (unless I am short on time :) The frosting recipe included goes perfectly with this cake, but you can use any frosting you like. "
+    },
+    {
+      "id": 18,
+      "img": "https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_55,w_860,ar_3:2/v1/img/recipes/23/29/07/JfMRguwVQ7ZRfxKZPwUb_0S9A5080.jpg",
+      "name": "BRENNAN'S BANANAS FOSTER",
+      "price": 8.02,
+      "size": "Medium",
+      "category": "potato",
+      "description": "Created in 1951, Bananas Foster are now found all over the US but the original comes from Brennan's in New Orleans, LA. Over 35,000 lbs of banana's are used every year at Brennan's. I haven't made this recipe yet, so the time is approximate."
+    },
+    {
+      "id": 19,
+      "img": "https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_55,w_860,ar_3:2/v1/img/recipes/53/37/81/Oj8Vhm2wT361z6MENukJ_0S9A2524.jpg",
+      "name": "CHICKEN PARMESAN",
+      "price": 8.02,
+      "size": "Medium",
+      "category": "dessert",
+      "description": "Italian food was one of the first things to go when I weighed 330 pounds. Little did I know that I could make one of my favorite Italian dishes that fits my Keto/Primal lifestyle! This chicken gets a nice crisp to the outside with amazing flavor. This dish is a winner, even with the non-Keto crowd."
+    },
+    {
+      "id": 20,
+      "img": "https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_55,w_860,ar_3:2/v1/img/recipes/23/29/07/JfMRguwVQ7ZRfxKZPwUb_0S9A5080.jpg",
+      "name": "BRENNAN'S BANANAS FOSTER",
+      "price": 8.02,
+      "size": "Medium",
+      "category": "dessert",
+      "description": "Created in 1951, Bananas Foster are now found all over the US but the original comes from Brennan's in New Orleans, LA. Over 35,000 lbs of banana's are used every year at Brennan's. I haven't made this recipe yet, so the time is approximate."
+    }
+  ]
+}

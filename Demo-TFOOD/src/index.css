@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-header{
+    background-image: url(https://img.freepik.com/free-photo/vintage-old-rustic-cutlery-dark_1220-4886.jpg?w=996&t=st=1697791054~exp=1697791654~hmac=9e67d07eaf3697c38ea9870098aa3f876afb8f91259e02e55cd03d9c4ef2d2b3);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-input{
+    background: rgb(55,245,17);
+background: linear-gradient(90deg, rgba(55,245,17,0.5013655120251226) 0%, rgba(183,244,196,1) 76%, rgba(237,248,250,1) 100%);
+}
+
+.bg-cart{
+    background-image: url(https://img.freepik.com/free-photo/vegetables-set-left-black-slate_1220-685.jpg?w=1380&t=st=1697610359~exp=1697610959~hmac=3287c7648b65e749051bc19c791d8438a315f44a879ea2a47917ac4b3512e634);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg{
+    background: rgb(10,10,10);
+background: linear-gradient(90deg, rgba(10,10,10,0.5013655120251226) 0%, rgba(36,74,44,1) 76%, rgba(237,248,250,1) 100%);
+}
